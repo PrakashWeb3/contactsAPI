@@ -38,8 +38,6 @@ DELETE : http://127.0.0.1:3000/users --> Delete the Contact Details
 ### adding contacts
 ![alt text](https://github.com/PrakashWeb3/contactsAPI/blob/master/public/images/AddingContacts.png?raw=true)
 
-### User Login
-![alt text](https://github.com/PrakashWeb3/contactsAPI/blob/master/public/images/ContactUser Login.png?raw=true)
 
 ### Contact Json
 ![alt text](https://github.com/PrakashWeb3/contactsAPI/blob/master/public/images/contactJson.png?raw=true)
