@@ -16,18 +16,18 @@ ACCESS_SECRET_KEY:
 
 ## Admin Credentials
 
-user:Admin
+user:Admin\
 pwd:123
 
 ## API Route for Admin
 
-POST : http://127.0.0.1:3000/admin/
-POST : http://127.0.0.1:3000/admin/addContact
+POST : http://127.0.0.1:3000/admin/ \
+POST : http://127.0.0.1:3000/admin/addContact\
 
 ## API Route for Contact Users
 
-POST : http://127.0.0.1:3000/users --> Login
-PUT : http://127.0.0.1:3000/users --> Update the contact details
+POST : http://127.0.0.1:3000/users --> Login \
+PUT : http://127.0.0.1:3000/users --> Update the contact details \
 DELETE : http://127.0.0.1:3000/users --> Delete the Contact Details
 
 
